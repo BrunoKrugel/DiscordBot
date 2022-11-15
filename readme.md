@@ -1,0 +1,1 @@
+# Boiler Plate for a discord bot
